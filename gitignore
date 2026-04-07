@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual env / embedded runtime
+runtime/
+venv/
+.venv/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Project - runtime data
+corrections.json
+uploads/
+output/
+*.log
