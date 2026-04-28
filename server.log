@@ -1,0 +1,71 @@
+  [学习] 偏差已更新 (n=115): 上=0.0001 下=-0.0001 左=0.0006 右=-0.0001
+========================================================
+  华矩EL 裁剪工具  v5-UI + 检测内核 v4.0 + 学习系统
+  GPU: NVIDIA GeForce RTX 4060 Laptop GPU
+  线程数: 8   OpenCV: 4.13.0
+  检测方法: Hough直线(主) + 亮度阈值(备)
+  默认外扩: 3%% 黑边
+  已积累标注: 115 张  (≥3张时学习偏差自动生效)
+  局域网: http://192.168.3.119:15789
+  关闭此窗口退出
+========================================================
+ * Serving Flask app 'app'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:15789
+ * Running on http://192.168.3.89:15789
+Press CTRL+C to quit
+127.0.0.1 - - [25/Apr/2026 20:07:17] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:07:32] "POST /auth/login HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:07:32] "GET /auth/status HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:29] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:30] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:30] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:30] "GET /logo HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:30] "GET /auth/status HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:31] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:32] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:32] "POST /auth/login HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:32] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:32] "GET /auth/status HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:32] "GET /logo HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:32] "GET /info HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:32] "GET /session/load/eaffff2a-2b09-4b5d-8d6c-b6303d268718 HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:33] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:35] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:35] "POST /session/save HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:36] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:37] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:38] "POST /process_drone HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:38] "POST /session/save HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:38] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:39] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:41] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:42] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:43] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:44] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:45] "POST /process_drone HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:45] "POST /session/save HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:45] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:47] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:48] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:49] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:50] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:51] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:52] "POST /process_drone HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:52] "POST /session/save HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:53] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:54] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:55] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:56] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:57] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:08:59] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:09:00] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:09:01] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:09:02] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:09:03] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:09:04] "POST /session/save HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:09:05] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:09:06] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2026 20:09:07] "GET /health HTTP/1.1" 200 -

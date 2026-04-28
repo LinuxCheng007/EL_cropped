@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password_hash": "DuFVlINbDXCIeCDWZDhI+GojeT+0vGUaK1J3CNsVwKs=",
+      "salt": "TnMpOFGYcteAkJ73uY7Lkg==",
+      "role": "admin",
+      "created_at": "2026-04-25 18:29:03"
+    },
+    {
+      "username": "陆民念",
+      "password_hash": "TfqEFDhYFa+dcmUCTDUvyv5gcL/V1+dwg9+9NRsTbKY=",
+      "salt": "qw6IOuiFIJysJrOj5jCcYg==",
+      "role": "user",
+      "created_at": "2026-04-25 18:30:44"
+    },
+    {
+      "username": "王子钰",
+      "password_hash": "aJlgZcbCDxVAJ2BmojY0l+1U6ANf5Z0MgvYVCx4WwoM=",
+      "salt": "shy2KTMGkqFEyF1qu74zkw==",
+      "role": "user",
+      "created_at": "2026-04-25 18:30:58"
+    },
+    {
+      "username": "邹科",
+      "password_hash": "O6Me7d5HbrP8L/3DVaVlU63xWWSVXIU96VXXQsGMsmQ=",
+      "salt": "2Z0yJnVtI5IxTnJXE+A9uA==",
+      "role": "user",
+      "created_at": "2026-04-25 18:31:19"
+    },
+    {
+      "username": "王钰",
+      "password_hash": "mtVesVlNyAnWCKawOjbbKes0UuWll7gsJmk0Ip01aec=",
+      "salt": "Ix11HGIMO2KILwWBWI+ytg==",
+      "role": "user",
+      "created_at": "2026-04-25 18:31:33"
+    },
+    {
+      "username": "李帅",
+      "password_hash": "4AaQuW1wMaPER75aG0UG26kdiU3/ndsjQBj4VKpLrCQ=",
+      "salt": "QPk46L2ZmcYd+0MJVk6Teg==",
+      "role": "user",
+      "created_at": "2026-04-25 18:31:44"
+    },
+    {
+      "username": "李学文",
+      "password_hash": "e3TBJE6II0VZt6cE5xXODPf5CQ0rfVMI/3A3MCApXbE=",
+      "salt": "MFeH5Y4LGMlTKIMMsIz7iw==",
+      "role": "user",
+      "created_at": "2026-04-25 18:31:53"
+    },
+    {
+      "username": "彭玉城",
+      "password_hash": "74teOffpm8RqP+OoQV70sGrDqOQRHxKbRrGYRFKOmPw=",
+      "salt": "RgWE+iC/P1h5yU9ktsoOcw==",
+      "role": "user",
+      "created_at": "2026-04-25 18:32:07"
+    },
+    {
+      "username": "丁少鹏",
+      "password_hash": "t4MQljkh3zDpM2GiUW2ytsF/6S69iCqQdBYAxswqgng=",
+      "salt": "H858QroRPfyjESAYWbRk6w==",
+      "role": "user",
+      "created_at": "2026-04-25 18:32:17"
+    },
+    {
+      "username": "任国振",
+      "password_hash": "v5dFT/JEqg4yL3SCE1/b3M1xIDCk8g96GnRwA2qkdzU=",
+      "salt": "SZxNqnaBnTAXJRmP3HaB4w==",
+      "role": "user",
+      "created_at": "2026-04-25 18:32:36"
+    },
+    {
+      "username": "林国成",
+      "password_hash": "6PFuhb8A7QDlNb8sdXCcnUhn7ponePnT3oct2Ff6S2k=",
+      "salt": "ZHHn1iTkj+u0YjUiAXKjZQ==",
+      "role": "admin",
+      "created_at": "2026-04-25 19:40:08"
+    }
+  ]
+}

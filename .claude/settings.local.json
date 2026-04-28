@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(update-config)",
+      "Skill(update-config:*)",
+      "Bash(netstat -ano)",
+      "Bash(tasklist /FI \"PID eq 27876\")",
+      "Bash(wmic process *)"
+    ]
+  }
+}
